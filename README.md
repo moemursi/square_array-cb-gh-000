@@ -19,7 +19,7 @@ A couple of questions that you can ask yourself are:
 
 Once you have the tests passing, see if you can implement this with a higher level iterator such as `.collect`.
 
-## Expectation Examples
+## Expectation Examplesg
 
 ```ruby
 numbers = [1,2,3]
